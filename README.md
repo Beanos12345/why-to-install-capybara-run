@@ -3,6 +3,7 @@ A website showing the benefits of capybara run
 <body>
   <h1>Capybaras are shown to increase levels of dopamein</h1>
   <div id="intro">
+    
     <iframe 
 
 width="700"
@@ -19,6 +20,7 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 allowfullscreen 
 
 ></iframe> 
+    <div>
 
   </div>
   <div>
